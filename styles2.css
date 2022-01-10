@@ -18,10 +18,12 @@ h1 {
     font-weight: 200;
 }
 img {
-    border-radius: 25%;
+    right: 8.5vw;
+    width: 20vw;
+    height: auto;
     position: absolute;
-    top: 50px;
-    right: .5in;
+    top: 10vh;
+    border-radius: 25%;
 }
 .tab {
     overflow:hidden;
